@@ -1,29 +1,41 @@
 # Title of the page
-title: "Neil's Life"
+title: "History of the Neuromarketing Industry"
 # Your name
-author: Neil Gupta
+#author: Neil Gupta
 # Show a link to LinkedIn in the header intro. Comment out to disable.
-linkedin: https://www.linkedin.com/in/guptaneil/
+#linkedin: https://www.linkedin.com/in/guptaneil/
 # Show a link at the top of your timeline to your main personal site
 # Comment this out to disable
-personal_site:
-  url: https://neil.gg
-  title: neil.gg
+#personal_site:
+#  url: https://neil.gg
+#  title: neil.gg
 # show today marker at end of timeline
-show_today: true
+#show_today: true
 
 # Your timeline is split into periods (e.g., decades, childhood/teens/adult, "Before Timeliner"/"After Timeliner", etc)
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
+  - name: Early Developments in Neuromarketing
   - events:
-    - October 1990: "👶 Neil is born in Michigan."
-    - December 1990: "✈️ Neil moves to California."
-    - August 1994: "👶 Neil's sister, Nandini, is born."
-    - February 1995: "💩 Neil splatters poop on his walls while swinging a garbage bag with a dirty diaper. This is his first physics lesson."
-    - December 1997: "🏠 Neil moves to a new home on Christmas. It's 100% less shitty than the last one."
-    - July 1998: "🎬 Neil directs his first action movie using a VHS camcorder and PowerMac 8500."
-    - March 1999: "🕶 The Matrix is released. Neil has to clarify his name isn't Neo for the rest of the decade."
-    - June 1999: "🔥 Neil's internet connection is upgraded from dial-up to 6mbps DSL. He starts tinkering with web development. And Napster."
+    - Pre-1980s: >-
+        There existed an extensive history of interest in the idea behind neuromarketing.
+          - "Although the field of neuromarketing is relatively new, the desire to gain insight into the minds of people is not."
+          - "In 1913, Hug Munsterberg, the father of organizational psychology, was recorded as expressing interest in this potential field when he 
+          stated: "Businessmen will eventually realize that customers are merely bundles of mental states and that the mind is a mechanism that we can affect with 
+          the same exactitude with which we control a machine in a factory"."
+          - "Prior to the development of modern brain imaging technology, there was a long history of sensory neuroscience research in industry
+          for product deveopment."
+          - "However, it wasn't until the emergence of biomdeical imaging technology in the 1990s when it became possible to gain real insight from the neural 
+          activity of the human brain."
+    - 1980s-1990s: >-
+        Gerald Zaltman, 'Mind of the Market Lab', used positron emission tomography (PET) and functional magnetic resonance imaging (fMRI) 
+        to examine neural responses to advertisements and products.
+          - "Gerald Zaltman develops the 'Zaltman metaphor elicitation technique (ZMET)' at Harvard Business School in the early 1990s."
+          - "ZMET is a technique that prompts study participants to share a set of pictures that represent their thoughts and feelings about a particular 
+          topic. The pictures that participants collect are thought to provide insight into their deeply held, often unconscious, thoughts and feelings."
+          - "Zaltman - "A lot goes on in our minds that we are not aware of. Most of what we say and do occurs below the level of awareness. That is why
+          we need new techniques: to get at hidden knowledge - to get at what people dont know they know"."
+    - 1999: "Gemma Calvert (Oxford) founds "Neurosense", the first neuromarketing company."
   - name: 2000's
     events:
     - October 2000: "🎂 Neil turns 10. It's a new millennium."
