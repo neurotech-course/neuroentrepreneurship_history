@@ -81,6 +81,7 @@ periods:
     - 2001: "Gruter Foundation for Law, Princeton University."
     - 2002: "<b>Kahneman</b> wins Nobel Prize in Economics for System 1/2."
     - 2005: "1st meeting of Society for Neuroeconomics, President <b>P. Glimcher</b>."
+    
   - name: Emergence of Neuromarketing Firms 
     events: 
     - 1999: "Neurosense (Oxford)"
@@ -92,3 +93,85 @@ periods:
     - 2010: Neurensics (Amsterdam)"
     - 2008-2015: "<b>Nielsen</b> acquires Neurofocus (2008,2011) and Innerscope (2015)"
     - 2013: "NeuronsInc (Copenhagen University)"
+    
+  - name: Academic Consumer Neuroscience Emerges 
+    events: 
+    - 2004: >-
+        The first recorded neuromarketing experiment was conducted at Baylor College of Medicine in 2003
+        <a href="https://doi.org/10.1016/j.neuron.2004/09/019" target="_blank" rel="noopener">(McClure et al.)</a>.
+        This study was an extension of the classic 'pepsi vs coke' taste test using fMRI to assess brain responses to determine how participants 
+        responded to (a) anonymous tastes of each soda, and (b) brand-cued tastes of each soda. 
+        <br> 
+        <br>
+        Together these mostly MRI-based studies provide some validation that there may be signals in the brain to exploit.
+    - 2006: >-
+        Neural predictors of purchases 
+        <a href="https://doi.org/10.1016/j.neuron.2006.11.010" target="_blank" rel="noopener">(Knutson et al.)</a>.
+    - 2008: >-
+        Wine tasting - price, not taste, dictates preference 
+        <a href="https://doi.org/10.1073/pnas.0706929105" target="_blank" rel="noopener">(Plassmann et al.)</a>.
+        <br> 
+        <br>
+        First textbook on NeuroEconomics is 
+        <a href="https://www.sciencedirect.com/book/9780123741769/neuroeconomics?via=ihub=" target="_blank" rel="noopener">published</a>. 
+    2010: >-
+        Unattended products influence purchasing decisions 
+        <a href="https://doi.org/10.1523/JNEUROSCI.0064-10.2010" target="_blank" rel="noopener">(Tusche et al.)</a>.
+    2011: >-
+        Brain better predicted sales of new songs than 'liking'
+        <a href="https://doi.org/10.1016/j.jcps.2011.05.001" target="_blank" rel="noopener">(Berns & Moore)</a>.
+    2018: >-
+        Brain responses from chocolate consumers predict most effective merchandising display in stores 
+  - name: Popular Books / Blogs / Media Reports
+    events: 
+    2005: >-
+        <b>Roger Dooley</b> starts his
+        <a href="https://www.rogerdooley.com/blog/" target="_blank" rel="noopener">'Neuromarketing' blog</a>.
+    2007: >-
+        FKF scientists skip peer review and publish fMRI study of perception of politicians, generating major backlash 
+        <a href="https://www.nytimes.com/2007/11/11/opinion/11freedman.html" target="_blank" rel="noopener">(Read more)</a>.
+    2008: >-
+        'Buyology: Truth and Lies about why we Buy' - <b>Martin Lindstrom</b>.
+    2011: >-
+        <b>Lindstrom</b> publishes fMRI  results in the
+        <a href="https://www.nytimes.com/2011/10/01/opinion/you-love-your-phone-literally.html" target="_blank" rel="noopener">New York Times</a>,
+        again leading to major backlash from mainstream science.
+    2011: "'Brainfluence', by <b>Dooley</b>."
+    2013: >-
+        'Neuromarketing for Dummies', by <b>Genco</b>.
+        <br>
+        <br>
+        'Brainwashed: The seductive appeal of mindless neuroscience', by <b>Satel & Lilienfeld</b>. 
+        
+  - name: Skepticism and Regulatory Attempts
+    events:
+    2011: "Neuromarketing Science & Business Association (NMSBA) forms."
+    2011-2014: >-
+        Advertising Research Foundation (ARF) calls for standards. 
+        <br>
+        <br>
+        Neurostandards 1.0 (2011) - Academic peer review of methods 
+        <br>
+        <br>
+        Neurostandards 2.0 (2013) - Validation experiment: 'Which methods work?'
+    
+  - name: Currents Trends
+    events:
+    Today: >-
+        Widescale commercial availability of eyetracking and electroencephalogram (EEG) devices
+        <br>
+        <br>
+        Neurotechnology innovation by industry (e.g., Elon Musk's Neuralink)
+        <br>
+        <br>
+        Artifical intelligence / machine learning methods to analyze neural and eyetracking data 
+        <br>
+        <br>
+        Alternative regulatory attempts: Facebook, Nielsen and other working on new standards for reliability and validity
+        <br>
+        <br>
+        Shift away from the term 'Neuromarketing' to 'Behavioural Sciences'
+        <br>
+        <br>
+        Rise of the professional neuroscience speaker, who translates neurosciences developments into 'business-speak'
+        
